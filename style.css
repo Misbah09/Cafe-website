@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-size: cover;
+}
+h1{
+    font-size: 80px;
+    color:whitesmoke;
+    font-family:cursive;
+}
+img{
+    width:300;
+    height:300;
+      border-radius: 30%;
+      padding: 50px;
+    }
+    
+    span{
+        color: yellow;
+        padding-left:80px;
+        padding-right:80px;
+        font-size: 30px;
+        font-weight: bold;
+    }
+    h5{
+        font-size: 50px;
+        color: aqua;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
